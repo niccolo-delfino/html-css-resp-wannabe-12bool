@@ -11,3 +11,9 @@ img {
 .bcg-grey{
   background-color: #f9f9f9;
 }
+
+.down .row img{
+  background-color: #428bca;
+  border-radius: 50%;
+  padding: 30px
+}
